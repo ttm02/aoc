@@ -1,2 +1,2 @@
 # aoc
-Advent of code
+Collection of my solutions for Advent of code (https://adventofcode.com)
